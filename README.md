@@ -14,8 +14,7 @@ I was able to usderstand the file sturcture and MS-DOS.
 ## Profile Picture
 
 The picture to the left is a picture of my father below Falls Dam on the Yakin River. I'm pretty sure my mother took the picture
-in the late 1940s. https://www.columbiastate.edu/
-
+in the late 1940s. 
 
 <!---
 philwlowder/philwlowder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
