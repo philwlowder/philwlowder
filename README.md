@@ -1,14 +1,20 @@
 # Phil W. Lowder
 
-I live in Albemarle, NC and enjoy having my own website.
+I live in Albemarle, NC. I first became interested in computing in the late 1970s.
+I recall seeing some early Apple computers at Columbia State Community College.
+Students were working on terminals attached to a mainframe.
+I took a few classes and a few more at Central Carolina Technical College.
+Students were working on terminals attached to DEC PDP-11. I enjoyed a course in BASIC programming
+far more than any of the other courses. Only when I had my own pc in 1988 did computers become less of a mystery.
+I was able to usderstand the file sturcture and MS-DOS. 
 
+## https://infobucket.com
 
-## infobucket.com
 
 ## Profile Picture
 
 The picture to the left is a picture of my father below Falls Dam on the Yakin River. I'm pretty sure my mother took the picture
-in the late 1940s.
+in the late 1940s. https://www.columbiastate.edu/
 
 
 <!---
