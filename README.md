@@ -3,7 +3,12 @@
 I live in Albemarle, NC and enjoy having my own website.
 
 
-## https://infobucket.com
+## infobucket.com
+
+## Profile Picture
+
+The picture to the left is a picture of my father below Falls Dam on the Yakin River. I'm pretty sure my mother took the picture
+in the late 1940s.
 
 
 <!---
