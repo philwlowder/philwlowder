@@ -1,7 +1,7 @@
 # Phil W. Lowder
 
 I live in Albemarle, NC. I first became interested in computing in the late 1970s.
-I recall seeing some early Apple computers at Columbia State Community College.
+I recall seeing some early Apple computers at Columbia State Community College in Columbia, TN.
 Students such as I were working on terminals attached to a mainframe.
 
 I took a few more classes at Central Carolina Technical College.
