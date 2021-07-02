@@ -2,11 +2,12 @@
 
 I live in Albemarle, NC. I first became interested in computing in the late 1970s.
 I recall seeing some early Apple computers at Columbia State Community College.
-Students were working on terminals attached to a mainframe.
-I took a few classes and a few more at Central Carolina Technical College.
+Students such as I were working on terminals attached to a mainframe.
+
+I took a few more classes at Central Carolina Technical College.
 Students were working on terminals attached to DEC PDP-11. I enjoyed a course in BASIC programming
 far more than any of the other courses. Only when I had my own pc in 1988 did computers become less of a mystery.
-I was able to usderstand the file sturcture and MS-DOS. 
+I was able to understand the file sturcture and MS-DOS. 
 
 ## https://infobucket.com
 
