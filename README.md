@@ -1,3 +1,8 @@
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5277db4a-ae62-4465-8aad-cecda6222311/deploy-status)](https://app.netlify.com/sites/condescending-franklin-68c2ca/deploys)
+
+
 # Phil W. Lowder
 
 I live in Albemarle, NC. I first became interested in computing in the late 1970s.
