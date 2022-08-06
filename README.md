@@ -15,7 +15,7 @@ I was able to understand the file sturcture and MS-DOS.
 
 ## Profile Picture
 
-The profile picture is a picture of my father, Robert Forrest Lowder, below Falls Dam on the Yadkin River. I'm pretty sure my mother took the picture
+The profile picture is my father, Robert Forrest Lowder, below Falls Dam on the Yadkin River. I'm pretty sure my mother took the picture
 in the late 1940s. 
 
 <!---
