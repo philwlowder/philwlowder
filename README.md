@@ -11,6 +11,10 @@ far more than any of the other courses. Only when I had my own pc in 1988 did co
 I was able to understand the file sturcture and MS-DOS. 
 
 ## https://infobucket.com
+Netlify deploys to this domain name.
+It also deploys to this sub domain. 
+It is my hope that it will fall back to this last one when infobucket.com
+is no longer being paid for.
 ## https://condescending-franklin-68c2ca.netlify.app/
 
 ## Profile Picture
