@@ -11,7 +11,7 @@ far more than any of the other courses. Only when I had my own pc in 1988 did co
 I was able to understand the file sturcture and MS-DOS. 
 
 ## https://infobucket.com
-
+## https://condescending-franklin-68c2ca.netlify.app/
 
 ## Profile Picture
 
