@@ -10,12 +10,20 @@ Students were working on terminals attached to DEC PDP-11. I enjoyed a course in
 far more than any of the other courses. Only when I had my own pc in 1988 did computers become less of a mystery.
 I was able to understand the file sturcture and MS-DOS. 
 
-## https://infobucket.com
 Netlify deploys to this domain name.
-It also deploys to this sub domain. 
-It is my hope that it will fall back to this last one when infobucket.com
-is no longer being paid for.
+
+## https://infobucket.com
+
+It also deploys to this domain. 
+
 ## https://condescending-franklin-68c2ca.netlify.app/
+
+It is my hope that it will fall back to this last one when infobucket.com
+is no longer being paid for. 
+
+Long live Netlify, otherwise my site breaks on Github. It is a path thing.
+I don't have the time or energy to work on that future problem.
+
 
 ## Profile Picture
 
