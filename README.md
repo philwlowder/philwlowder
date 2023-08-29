@@ -16,10 +16,10 @@ Netlify deploys to this domain name.
 
 It also deploys to this domain. 
 
+When infobucket.com is longer being being paid for, I hope this 2nd domain will keep working.
+
 ## https://condescending-franklin-68c2ca.netlify.app/
 
-It is my hope that it will fall back to this last one when infobucket.com
-is no longer being paid for. 
 
 Long live Netlify, otherwise my site breaks on Github. It is a path thing.
 I don't have the time or energy to work on that future problem.
